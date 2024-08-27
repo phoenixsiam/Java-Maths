@@ -7,7 +7,7 @@ package basicojava;
 
 /**
  *
- * @author keating
+ * @author phoenixsiam
  */
 public class SYSGUI extends javax.swing.JFrame {
 

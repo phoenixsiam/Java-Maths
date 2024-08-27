@@ -7,7 +7,7 @@ package basicojava;
 import java.util.Scanner; //OBJETO SCANNER
 /**
  *
- * @author keating VANEGAS 2015
+ * @author fenixsiam
  *///PROGRAMA PARA RESOLVER SISTEMAS DE EC LINEALES CON 2 VARIABLES
 //A TRAVES DEL USO DE ARREGLOS MULTIDIMENSIONALES
 public class SYS2 {
